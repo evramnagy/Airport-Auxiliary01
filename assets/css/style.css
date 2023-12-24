@@ -103,7 +103,7 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: #ebe8e5;
   font-family: "Mulish", sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -1365,7 +1365,7 @@ h4 a:hover {
   }
 }
 .section-header.white .section-title {
-  color: white;
+  color: #dcbb87;
 }
 .section-header.white p {
   color: white;
@@ -4946,7 +4946,7 @@ section {
   .team-social
   li
   a:hover {
-  border: 1px solid #dcbb87;
+  border: 1px solid #ddbc88;
   color: white;
 }
 .team-details
@@ -6940,7 +6940,7 @@ div[class*="col"]:nth-of-type(4n + 4) .statistics-item::after {
 }
 
 .package-item {
-  background-color: white;
+  background-color: #ebe8e5;
   box-shadow: 0 10px 10px rgba(50, 73, 179, 0.08);
   border-radius: 10px;
   padding: 25px;

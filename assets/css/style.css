@@ -6940,7 +6940,7 @@ div[class*="col"]:nth-of-type(4n + 4) .statistics-item::after {
 }
 
 .package-item {
-  background-color: #ebe8e5;
+  background-color: #fff;
   box-shadow: 0 10px 10px rgba(50, 73, 179, 0.08);
   border-radius: 10px;
   padding: 25px;
@@ -6948,7 +6948,13 @@ div[class*="col"]:nth-of-type(4n + 4) .statistics-item::after {
 .package-item:hover .package-thumb img {
   transform: scale(1.2);
 }
-
+.package-item h3 {
+  text-align: center;
+   color: #dcbb87 ;
+}
+.package-item:hover h3 {
+  color: #dcbb87 ;
+}
 .package-thumb {
   position: relative;
   overflow: hidden;
